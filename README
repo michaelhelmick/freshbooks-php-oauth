@@ -1,0 +1,31 @@
+/**
+ *  This program is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  This program is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/**
+ *	This is class written to work with Freshbooks OAuth methods. It 
+ *	authorizes a user and will let you make requests to Freshbooks API 
+ *	methods with OAuth headers.
+ *
+ * 	Last Edit: Oct. 1st, 2010
+ * 	@author Mike Helmick (mikeh@ydekproductions.com)
+ * 	@version 2.0
+ *
+**/
+
+For information on how to use this class, check out my blog post:
+http://blog.michaelhelmick.com/2010/07/30/freshbooks-api-using-oauth/
+
+Also, if you're using Code Ignitor.. Spicer Matthews converted this lib to work easily in CI:
+http://github.com/cloudmanic/php-freshbooks-codeigniter
